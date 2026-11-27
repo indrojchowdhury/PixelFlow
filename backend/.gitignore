@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+media/
+node_modules/
+db.sqlite3
+.vscode/
+celerybeat-schedule*
